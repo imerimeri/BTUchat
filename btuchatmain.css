@@ -1,0 +1,8 @@
+.button-like,
+.button-comment,
+.button-share {
+    padding: 10px 15px; /* Increased padding for more space */
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    cursor: pointer;
+}
